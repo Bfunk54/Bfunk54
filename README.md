@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bfunk54" alt="bfunk54" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ben_fein" target="blank"><img src="https://img.shields.io/twitter/follow/ben_fein?logo=twitter&style=for-the-badge" alt="ben_fein" /></a> </p>
+- 👨‍💻 [Ben's Portfolio](https://bfunk54.github.io/React-Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://bfunk54.github.io/React-Portfolio/](https://bfunk54.github.io/React-Portfolio/)
-
-- 💬 Ask me about **react, mongodb, apollo, or any other technologies I've used**
+- 💬 Ask me about **any technologies I've used or questions you have about any of my projects**
 
 - 📫 How to reach me **ben_fein@icloud.com**
 
