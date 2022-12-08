@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ben</h1>
+<h1 align="center">Ben Fein</h1>
 <h3 align="center">A full stack developer from Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bfunk54&label=Profile%20views&color=0e75b6&style=flat" alt="bfunk54" /> </p>
