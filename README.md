@@ -7,7 +7,7 @@
 
 - 👨‍💻 [Ben's Portfolio](https://bfunk54.github.io/React-Portfolio/)
 
-- 💬 Ask me about **any technologies I've used or questions you have about any of my projects**
+- 💬 Ask me about **any business inquiries or questions you have about any of my projects**
 
 - 📫 How to reach me **ben_fein@icloud.com**
 
