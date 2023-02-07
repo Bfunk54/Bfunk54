@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bfunk54" alt="bfunk54" /></a> </p>
 
-- 👨‍💻 [Ben's Portfolio](https://bfunk54.github.io/React-Portfolio/)
+- 👨‍💻 [My Portfolio](https://benfein.me)
 
 - 💬 Ask me about **any business inquiries or questions you have about any of my projects**
 
